@@ -35,3 +35,9 @@ innovative and creative.**
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+<br/>
+    <a href="https://github.com/VictorJB16/github-readme-stats"><img alt="VictorJB16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VictorJB16&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/VictorJB16/github-readme-stats"><img alt="VictorJB16's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJB16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
