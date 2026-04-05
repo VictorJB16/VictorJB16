@@ -57,15 +57,6 @@ Experienced in developing full-stack applications using **React, Next.js, Astro,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorJB16&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJB16&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - 📧 Email: vicjimenezbustosdev@gmail.com  
