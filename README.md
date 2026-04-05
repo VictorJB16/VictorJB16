@@ -1,42 +1,76 @@
-<h1 align="center">Hi , I'm Victor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm Victor Bustos</h1>
+<h3 align="center">Software Engineer focused on scalable systems & modern web applications</h3>
 
-<!--About Me-->
+---
 
+## 🚀 About Me
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+Software Engineer with a background in Information Systems Engineering, focused on building scalable systems and microservices architectures.  
+Experienced in developing full-stack applications using **React, Next.js, Astro, and NestJS**, with a strong focus on clean architecture and performance.
 
-**I am an information systems engineering student, currently in my last year of my degree. I am expanding my
-knowledge in both front-end and back-end development, I love learning and building something new, productive,
-innovative and creative.**
-<hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
-  <ul>
-    <li>🔭 I’m currently studying at the university on <strong>Universidad Nacional De Costa Rica</strong></li>
-    <li>🌱 I’m currently learning <strong>React js,Next js,Nest js,...</strong></li>
-    <li>📫 How to reach me <strong>victortheking0316@gmail.com</strong></li>
-  </ul>
-<br>
-🛠️ My Skills
+- 🎓 Final-year student at **Universidad Nacional de Costa Rica**
+- ⚙️ Building real-world systems (microservices & management platforms)
+- 🌱 Currently improving **system design & backend engineering**
+- 💡 Passionate about solving problems and building impactful products
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+## 🧠 What I’m Focused On
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+- Designing **scalable backend systems**
+- Building **microservices architectures**
+- Improving **data handling & system performance**
+- Writing **clean, maintainable code**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-<br/>
-    <a href="https://github.com/VictorJB16/github-readme-stats"><img alt="VictorJB16's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VictorJB16&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/VictorJB16/github-readme-stats"><img alt="VictorJB16's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJB16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp)
+
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs)
+![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure)
+
+---
+
+## 📌 Featured Projects
+
+🚀 **Student Management System**
+- Built a full system for academic and administrative management  
+- Designed data structures and workflows for real-world usage  
+
+⚙️ **Microservices Architecture (NestJS)**
+- Developed backend services for internal systems  
+- Focused on scalability, modularity, and performance  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorJB16&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJB16&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: vicjimenezbustosdev@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/victor-bustos  
+
+---
+
+⭐ *Always building, always learning, always improving.*
